@@ -55,7 +55,7 @@ export default class App extends React.Component {
           <List>
             <ListItem avatar style={{marginBottom:10}}>
               <Left>
-                <Thumbnail source={require("./assets/images/anjing.jpg")} />
+                <Thumbnail source={require("./assets/images/image.jpg")} />
               </Left>
               <Body>
                 <Text>Kumar</Text>
@@ -67,7 +67,7 @@ export default class App extends React.Component {
             </ListItem>
             <ListItem avatar style={{marginBottom:10}}>
               <Left>
-                <Thumbnail source={require("./assets/images/anjing.jpg")} />
+                <Thumbnail source={require("./assets/images/image.jpg")} />
               </Left>
               <Body>
                 <Text>Budi</Text>
@@ -90,7 +90,7 @@ export default class App extends React.Component {
           <List>
           <ListItem avatar style={{marginBottom:5}} noBorder>
               <Left>
-                <Thumbnail source={require("./assets/images/anjing.jpg")} />
+                <Thumbnail source={require("./assets/images/image.jpg")} />
                 <Badge style={{backgroundColor:"#25d366", display:"flex", justifyContent:"center", position:"absolute", top:47, left:35}}>
             <Icon name="add" style={{color:"#ffffff", fontSize:22}} />
           </Badge>
@@ -105,7 +105,7 @@ export default class App extends React.Component {
             </Separator>
             <ListItem avatar style={{marginBottom:5}}>
               <Left>
-                <Thumbnail source={require("./assets/images/anjing.jpg")}  style={{padding:5, backgroundColor:"#ffffff",borderWidth: 2.5, borderColor: "#075e54"}} />
+                <Thumbnail source={require("./assets/images/image.jpg")}  style={{padding:5, backgroundColor:"#ffffff",borderWidth: 2.5, borderColor: "#075e54"}} />
               </Left>
               <Body>
                 <Text>Andi</Text>
@@ -117,7 +117,7 @@ export default class App extends React.Component {
             </Separator>
             <ListItem avatar style={{marginBottom:5}}>
               <Left>
-                <Thumbnail source={require("./assets/images/anjing.jpg")} style={{borderWidth: 2.5, borderColor: "#dbd8d5"}} />
+                <Thumbnail source={require("./assets/images/image.jpg")} style={{borderWidth: 2.5, borderColor: "#dbd8d5"}} />
               </Left>
               <Body>
                 <Text>Budi</Text>
@@ -142,7 +142,7 @@ export default class App extends React.Component {
           <List>
           <ListItem avatar style={{marginBottom:5}}>
               <Left>
-                <Thumbnail source={require("./assets/images/anjing.jpg")} />
+                <Thumbnail source={require("./assets/images/image.jpg")} />
               </Left>
               <Body>
                 <Text>Andi</Text>
@@ -156,7 +156,7 @@ export default class App extends React.Component {
             </ListItem>
             <ListItem avatar style={{marginBottom:5}}>
               <Left>
-                <Thumbnail source={require("./assets/images/anjing.jpg")} />
+                <Thumbnail source={require("./assets/images/image.jpg")} />
               </Left>
               <Body>
                 <Text>Budi</Text>
